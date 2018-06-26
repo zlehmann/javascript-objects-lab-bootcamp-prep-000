@@ -1,1 +1,4 @@
-recipes = {}
+function Objects() {
+  recipes = {}
+  return recipes
+}

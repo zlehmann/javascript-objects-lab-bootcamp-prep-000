@@ -1,3 +1,1 @@
-function Objects() {
-  var obj = new recipes();
-}
+var obj = new recipes()

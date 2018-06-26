@@ -1,1 +1,3 @@
-var Objects = {}
+function Objects() {
+  var obj = {}
+}

@@ -1,3 +1,3 @@
-function Objects() {
-  recipes = {}
+function recipes() {
+  this.something = test
 }

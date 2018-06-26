@@ -1,3 +1,3 @@
 function recipes() {
-  this.something = test
+  this.something = "test"
 }

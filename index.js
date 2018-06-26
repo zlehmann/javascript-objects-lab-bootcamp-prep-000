@@ -1,3 +1,3 @@
 function recipes() {
-  this.something = "test"
+  var recipes = new recipes()
 }
